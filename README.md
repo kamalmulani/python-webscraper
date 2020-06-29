@@ -15,5 +15,5 @@ Installation:
 
 How to run this code:
 
-    there are two source code files, one is .py extention and another is .ipynb extention
-    one can run Scraping with BeautifulSoup.py file in python by run this cammand in terminal "python3 Web Scraping with BeautifulSoup.py"
+    the source code files is .py  extention
+    one can run Scraping with pythonwebscraping.py file in python to uses the project
